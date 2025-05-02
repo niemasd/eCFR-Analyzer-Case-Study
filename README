@@ -1,0 +1,14 @@
+This folder contains a backup of the following repository, which is no longer publically accessible:
+
+https://github.com/CLSweet/eCFR-Analyzer-Case-Study
+
+Specifically, this backup was pulled from the Wayback Machine:
+
+1. I first looked up the original repository on Wayback Machine, which had 3 files: README.md, app.py, and requirements.txt
+    * https://web.archive.org/web/20250426165053/https://github.com/CLSweet/eCFR-Analyzer-Case-Study
+2. I then clicked on each file to find the most recent Wayback Machine backup of each:
+    * https://web.archive.org/web/20250426233718/https://github.com/CLSweet/eCFR-Analyzer-Case-Study/blob/main/README.md
+    * https://web.archive.org/web/20250426233746/https://github.com/CLSweet/eCFR-Analyzer-Case-Study/blob/main/app.py
+    * https://web.archive.org/web/20250419225212/https://github.com/CLSweet/eCFR-Analyzer-Case-Study/blob/main/requirements.txt
+
+As a result, this repository contains a backup that contains README.md and app.py as they appeared on 2025-04-26, and requirements.txt as it appeared on 2025-04-19. Notably, the repo did not contain a license file. I have included PDFs of each page for posterity.
